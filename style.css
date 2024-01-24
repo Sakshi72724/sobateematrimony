@@ -1,0 +1,222 @@
+*
+{
+    padding: 0;
+    margin:0;
+}
+
+nav 
+{
+    position: fixed;
+    background-color: crimson;
+    height:70px;
+    width:100%;
+    z-index:1;
+}
+
+.logo
+{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size:40px;
+    position:relative;
+    left: 5%;
+    color: white;
+    font-weight:100;
+    line-height:70px;
+}
+
+ul
+{
+    position: relative;
+    float: right;
+    margin-right: 20px;  
+}
+ul li
+{
+    display: inline-block;
+    line-height:70px;
+    margin:0 5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+}
+
+.main_img
+{
+    width:100%;
+    height:500px;
+}
+
+.section1
+{
+    padding-top:70px;
+}
+
+.img_text
+{
+    position: absolute;
+    top: 75%;
+    left:32%;
+    color:white;
+    background-color:crimson;
+    padding-right:20px;
+    padding-left:20px;
+    font-size: 40px;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-weight: 100;
+}
+
+.welcome_img
+{
+    width:100%;
+    height:250px;
+}
+
+.container
+{
+    padding-top: 70px;
+}
+
+
+
+.form1
+{
+    padding-top: 40px;
+    text-align: center;
+}
+
+
+.label1
+{
+    display:inline-block;
+    color:white;
+    width:100px;
+    text-align: right;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.login_form
+{
+    background-color:black;
+    opacity:0.5;
+    width:400px;
+    padding-top:70px;
+    padding-bottom:70px;
+}
+
+
+.title_deg
+{
+    background-color: crimson;
+    color: white;
+    text-align:center;
+    font-weight:bold;
+    width: 400px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.body_deg
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+
+.form2
+{
+    padding:20px;
+    text-align: center;
+    margin:auto;
+    
+}
+
+
+.label2
+{
+    display:inline-block;
+    color:white;
+    width:150px;
+    text-align: left;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    
+}
+
+
+.Registration_form
+{
+    background-color:black;
+    opacity:0.5;
+    width:800px;
+    padding-top:50px;
+    padding-bottom:70px;
+    
+}
+
+.form-group 
+{
+    margin: 0 auto;
+    max-width: 350px; 
+    color:white;
+    
+}
+
+.form-group .form-control
+{
+    
+    width: 350px; /* Adjust the width as needed */
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 15px;    
+}
+
+.title_reg
+{
+    background-color: crimson;
+    color: white;
+    text-align:center;
+    font-weight:bold;
+    width: 800px;
+    padding-top:50px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+
+
+.body_reg
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.heading2
+{
+    color: white;
+    font-size:40px;
+    padding-bottom:1px;
+}
+
+.label-c
+{
+    color:white;
+    padding-left:20px;
+}
+
+
+.button
+{
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    font-size: 16px; 
+}
+
